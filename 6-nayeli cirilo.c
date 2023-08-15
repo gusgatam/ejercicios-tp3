@@ -11,7 +11,8 @@ void octa(float num1){
 }
 
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[]) //cantt puede ser calculado en la función, no necesita ser argumento.
+{
 	
 	float num1;
 	

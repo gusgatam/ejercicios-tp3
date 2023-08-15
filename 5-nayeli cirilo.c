@@ -15,9 +15,10 @@ void imprimir(int r1, int r2, int r3, int r4, int r5){
 }
 
 
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[]) //cantt puede ser calculado en la función, no necesita ser argumento.
+{
 	
-	int r1,r2,r3,r4,r5;
+	int r1,r2,r3,r4,r5;//Estructuras repetitivas
 	
 	
 	printf("ingresar la resistencia 1 \n");
